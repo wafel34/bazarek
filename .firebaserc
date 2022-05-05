@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bazarek-4aa99": {
+      "hosting": {
+        "bazarek": [
+          "bazarek-4aa99"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bazarek-4aa99"
+  }
+}
