@@ -150,5 +150,7 @@
       }
     }
   },
-  "defaultProject": "bazarek"
+  "cli": {
+    "analytics": false
+  }
 }
